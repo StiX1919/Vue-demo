@@ -8,7 +8,16 @@
   </div>
 </template>
 
+<script>
+  // import axios from 'axios'
+  export default {
+    
+  }
+</script>
+
+
 <style>
+/* <style scoped>  for localized styling*/
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
